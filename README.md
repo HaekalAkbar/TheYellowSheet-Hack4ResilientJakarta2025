@@ -1,15 +1,17 @@
 # The Yellow Sheet — Hack4ResilientJakarta2025
-This repository contains our submission for **Hack4ResilientJakarta 2025**.
-
 ## About the Project
+Sponge City for Everyone: Spatial Mapping to Target Inclusive Implementation
+
 Jakarta faces two urgent urban challenges: recurring floods and rapid land subsidence, both of which threaten the city’s infrastructure and long-term resilience.
 Our project explores the use of porous paving blocks as a large-scale solution to improve water infiltration and reduce surface runoff, supporting a zero run-off approach to urban planning.
 
 Using satellite imagery and disaster risk analysis (hazard, exposure, and vulnerability), we:
+
 - Identify potential areas across Jakarta for porous paving block implementation.
 - Highlight priority zones where disaster risk is highest.
 - Provide spatial evidence to guide policymakers, urban planners, and communities.
-This project aims to demonstrate how data-driven mapping and nature-based solutions can be combined to create more resilient cities.
+
+This project aims to demonstrate how data-driven mapping and nature-based solutions can be combined to create more resilient and inclusive cities.
 
 ## Structure
 - `/code` — containing model, calculation, and script
